@@ -234,9 +234,11 @@ export function getLists(value) {
 下面是笔者开发项目架构，各位可以做个参考
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210220173329203.png#pic_center)
+
 源代码存放在 gitee 中
 
 关注公众号：大明贵妇，获取 Umi.js 学习资料（回复 Umi ），期待各位客官来临
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210126140631293.jpg#pic_center)
 
 参考文章：https://www.jianshu.com/p/dc493809a2fd
